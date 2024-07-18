@@ -20,7 +20,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 Users should be able to:
 
-- See hover and focus states for all interactive elements on the page and click on links to redirect them to the users social liks
+- See hover and focus states for all interactive elements on the page and click on links to redirect them to the user's social links.
 
 ### Links
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ## My process
 
-- Using React ad Tailwind CSS I was able to come up with a quick and easy solutio to this Fronend Mentor Challenege
+- Using React ad Tailwind CSS I was able to come up with a quick and easy solution to this Frontend Mentor Challenge
 
 ### Built with
 
@@ -41,12 +41,10 @@ Users should be able to:
 
 ## Author
 
-- Website - [Tioluwani Enoch Olubunmi](https://www.your-site.com)
+- Website - [Tioluwani Enoch Olubunmi](https://tioluwani-enoch-olubunmi.onrender.com/)
 - Frontend Mentor - [@CodeMaestro-dev](https://www.frontendmentor.io/profile/CodeMaestro-dev)
 - LinkedIn - [@tioluwanienoch](https://www.linkedin.com/in/tioluwani-olubunmi-52557428b/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
-I really want to acknowledge but [Mr. Golden](https://www.linkedin.com/in/goldenazubuike/) and [Sir David Edu](https://www.linkedin.com/in/david-edu/) on thier tremendous work in teaching me React and everything I kow today.
+I really want to acknowledge both [Mr. Golden](https://www.linkedin.com/in/goldenazubuike/) and [Sir David Edu](https://www.linkedin.com/in/david-edu/) on their tremendous work in teaching me React and everything I know today.
