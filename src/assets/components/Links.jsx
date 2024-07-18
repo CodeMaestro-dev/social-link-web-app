@@ -5,7 +5,7 @@ export default function Links({link, text}) {
     <li>
       <a
         href={link}
-        className="block text-center bg-link-grey-100 rounded-md text-white w-full px-5 py-3"
+        className="block text-center bg-link-grey-100 rounded-md text-white w-full px-5 py-3 hover:bg-link-green hover:text-link-grey-200"
         target="_blank"
       >
         {text}

@@ -3,7 +3,7 @@ import profilePicture from "/assets/images/avatar-jessica.jpeg";
 
 function App() {
   return (
-    <main className="mt-20 bg-link-grey-200 w-[400px] h-auto p-10 rounded-md">
+    <main className="mt-20 bg-link-grey-200 w-full md:w-[400px] h-auto p-10 rounded-md">
       <div className="flex flex-col items-center">
         <img
           src={profilePicture}
@@ -14,7 +14,7 @@ function App() {
           Jessica Randall
         </h1>
         <p className="text-link-green">London, United Kingdom</p>
-        <p className="text-link-white mt-10 mb-5">
+        <p className="text-link-white mt-10 mb-5 text-center">
           &quot;Front-end developer and avid reader.&quot;
         </p>
         <ul className="flex flex-col gap-4 w-full font-bold">
